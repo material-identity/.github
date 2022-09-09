@@ -1,1 +1,1 @@
-# .github
+This is the Github organization of material-identity
